@@ -59,4 +59,4 @@ I then plotted 2 bar charts and a histogram to visualise this event.
 - https://networkx.org/documentation/stable/tutorial.html
 
 # Mini-Reflection
-Regardless of the outcome, attempting this take home assessment gave me the opportunity to learn quite a bit about cryptocurrency transactions and how to query public blockchain apis, which I enjoyed learning and figuring out how to do.
+Regardless of the outcome, attempting this take home assessment gave me the opportunity to learn quite a bit about cryptocurrency transactions and how to query public blockchain apis. I had almost no prior knowledge of cryptocurrencies and blockchain apis, so I had to learn almost everything from scratch. Regardless, attempting this take home assessment has given me valuable experience that I can apply in my future projects.
