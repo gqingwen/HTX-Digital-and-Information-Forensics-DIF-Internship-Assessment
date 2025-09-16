@@ -48,7 +48,7 @@ Annotated charts with labels like “suspicious activity detected”
 For this, I choose the Libra token and again, made use of the Etherscan API to explore the transactions of the token.
 I explored the transaction data year by year, and for 2021 I discovered something interesting.
 In January of that year, on the 25th of Jan in particular, there was an exceptionally high amount of transactions and total transaction value as compared to the rest of the year.
-That was highky suspicious and is likely a sign of illicit activity such as pump and dump activities
+That was highly suspicious and is likely a sign of illicit activity such as pump and dump activities
 I then plotted 2 bar charts and a histogram to visualise this event.
 
 
