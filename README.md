@@ -52,14 +52,6 @@ That was highky suspicious and is likely a sign of illicit activity such as pump
 I then plotted 2 bar charts and a histogram to visualise this event.
 
 
-# Conclusion
-Despite the higher classification accuracy of paid, when considering R² score and MSE (which are more directly relevant to the regression task), studytime appears to have a slightly better performance compared to paid or the combined model.
-
-Unexpectedly, combining both our best variables from both categories into a single model yielded poorer performance.
-
-Moving forward, a possible solution could be to use more data that measures other aspects of a students learning, and combine it into 1 model.
-
-In conclusion, studytime alone may offer a simpler and more interpretable model compared to the combined model involving categorical encoding and interactions between variables.
 
 # References
 - https://docs.etherscan.io/
